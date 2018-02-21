@@ -1,4 +1,4 @@
-# ruby-on-rails-recruitment-task
+# Ruby on Rails Developer Recruitment Task
 
 Napisać prostą aplikację do sprawdzania prognozy pogody z wykorzystaniem jakiejś darmowej usługi np. http://apidev.accuweather.com/developers/ lub http://openweathermap.org/api (do wyboru programisty)
 
