@@ -3,7 +3,7 @@
 ## Opis zadania i zasoby
 
 * TL;DR: Zaprojektuj system kategorii jak na Allegro.
-* [Wizualizacja pomocnicza jest tutaj](https://lchojnowski-personal.s3-eu-central-1.amazonaws.com/Ruby-on-Rails-Zadanie-rekrutacyjne-MKOIq6s40L.pdf)
+* [Wizualizacja pomocnicza jest tutaj](https://lchojnowski-personal.s3-eu-central-1.amazonaws.com/Ruby-on-Rails-Zadanie-rekrutacyjne-MKOIq6s40L.pdf) - możesz też zobaczyć ją w tym repozytorium jako pdf lub xml (otwiera się za pomocą [draw.io](https://www.draw.io/]))
 
 ## Wymagania biznesowe
 
