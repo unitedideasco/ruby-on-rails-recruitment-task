@@ -2,8 +2,13 @@
 
 ## Opis zadania i zasoby
 
+<<<<<<< HEAD
 * TL;DR: Zaprojektuj system kategorii jak na Allegro
 * [Wizualizacja pomocnicza jest tutaj](dodatkowe_informacje.pdf) - możesz też zobaczyć ją w tym repozytorium jako pdf lub xml (otwiera się za pomocą [draw.io](https://www.draw.io/))
+=======
+* TL;DR: Zaprojektuj system kategorii jak na Allegro.
+* Wizualizacja pomocnicza jest tutaj - możesz też zobaczyć ją w tym repozytorium jako pdf lub xml (otwiera się za pomocą [draw.io](https://www.draw.io/))
+>>>>>>> 3190208f2237c4fd285978241b883cd0345f4fc5
 
 ## Wymagania biznesowe
 
