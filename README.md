@@ -41,5 +41,6 @@
 ## FAQ / Protips
 
 - **Protip: Zadanie jest łatwo rozwiązać jeśli zrobisz je najpierw na kartce - projektując schemat bazy danych który jest w stanie przejść wszystkie przypadki użycia**
-- Ile to zadanie zajmie? *Większość osób robi je w 2/3 dni*
-- Czy muszę / mogę używać gemów? *Sposób rozwiązania nie jest narzucony, więc można*
+- Jak wygląda review zadania? *Uruchamiamy zadanie na podstawie instrukcji z pliku README.md w dostarczonym repozytorium i przechodzimy kolejno przez wszystkie wymagania z listy wymagań sprawdzając jak są zrobione*
+- Ile mi to zadanie zajmie? *Większość osób robi je w 2/3 dni*
+- Czy muszę / mogę X? *Sposób rozwiązania nie jest narzucony, więc zakładaj że można :-)*
