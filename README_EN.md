@@ -41,5 +41,6 @@
 ## FAQ / Protips
 
 - **Protip: This recruitment task is easy to solve if you will solve it on the paper first - designing database schema which covers all use cases**
+- How does looks like the task review? *We're running the project based on instructions supplied in README.md from you and go through all requirements*
 - How long that task may take? *Most of people solves it within 2/3 days*
-- I need / i can use gems? *The solution is not provided so yo can*
+- I need / i can X? *The solution is not provided so yes you can :-)*
